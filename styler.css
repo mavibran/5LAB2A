@@ -1,0 +1,120 @@
+.menu{ 
+	background:#454143;
+	float: left;
+height: 100%;
+margin left:auto;
+padding: 10px;
+
+}
+.menu a{ 
+	color:#FFFFFF;
+	font-family: Arial;
+}
+.titulo {
+	background:#4F4F4F;
+	
+	
+}
+.titulo h1{
+	color: #FFFFFF;
+	text-align:center;
+	font-family: Arial;
+	font-size: auto:;
+}
+.sub h2{
+
+     color: #FFFFFF;
+	text-align: center;
+	font-family:Arial;
+}
+.sub{
+	background:#4F4F4F; 
+}
+.foto{
+background-image: url("images/profile-pic.png"none);
+border-radius: 50px;
+
+
+}
+.icono{
+	 display: block;
+	 margin: auto;
+}
+.texto{
+ 
+	text-align :center;
+	
+}
+
+.k button { 
+	background:#00BFD3; 
+
+}
+.k p{
+	background: #00BFD3;
+}
+.skills{
+	background: #454143 ;
+}
+.texto1  p{
+float: left;
+margin:20px;
+height: 20px;
+background:#454143;
+text-align: center;
+
+}
+.texto2  p{
+float: left;
+margin:20px;
+height: 20px;
+background:#FFFFFF;
+text-align: center;
+
+}
+.texto1 p{
+float: left;
+margin:20px;
+height: 20px;
+background:#454143;
+text-align: center;
+
+}
+.texto2  p{
+float: left;
+margin:20px;
+height: 20px;
+background:#454143;
+text-align: center;
+
+}
+.texto1  p{
+float: left;
+margin:20px;
+height: 20px;
+background:#454143;
+text-align: center;
+
+}
+.texto2  p{
+float: left;
+margin:20px;
+height: 20px;
+background:#454143;
+text-align: center;
+
+}
+
+.a{
+	float: left;
+margin:25%;
+}
+.portafoli{
+	
+	float: left;
+height: 100%;
+margin left:auto;
+padding: 10px;
+	background: #FAFAFA;
+	color: #454143;
+}
